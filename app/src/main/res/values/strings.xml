@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TelefonicaStrategy</string>
+    <string-array name="opciones">
+        <item>Telcel</item>
+        <item>Unefon</item>
+        <item>MyCompany</item>
+        <item>Movistar</item>
+    </string-array>
+
+    <string name="texto_creditos">
+        Créditos\n\n
+        Asignatura: Programación de Aplicaciones\n
+        Grupo: GITI9083-S\n
+    </string>
+</resources>
